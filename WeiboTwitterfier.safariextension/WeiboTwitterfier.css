@@ -92,6 +92,13 @@ div#trustPagelet_recom_memberv5 {
 }
 
 /*
+ * Hide right ads
+ */
+div#pl_rightmod_ads36 {
+    display: none !important;
+}
+
+/*
  * Hide right bulletin
  */
 div#pl_rightmod_noticeboard {
