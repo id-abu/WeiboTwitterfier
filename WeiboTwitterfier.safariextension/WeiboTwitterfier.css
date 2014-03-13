@@ -47,6 +47,9 @@ div#pl_content_publisherTop > div.send_weibo > div.title_area {
 /*
  * Hide middle ads / guide / member recommendation
  */
+div#pl_content_biztips {
+    display: none !important;
+}
 div#pl_ad_yaoyaoFans {
     display: none !important;
 }
