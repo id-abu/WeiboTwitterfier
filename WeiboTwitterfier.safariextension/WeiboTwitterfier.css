@@ -108,6 +108,13 @@ div#pl_rightmod_noticeboard {
 
 
 /*
+ * Hide footer ads
+ */
+div.footer_adv {
+    display: none !important;
+}
+
+/*
  * Hide footer
  */
 div.global_footer {
