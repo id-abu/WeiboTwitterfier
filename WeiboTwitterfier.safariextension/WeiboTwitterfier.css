@@ -1,0 +1,106 @@
+/*
+ * Hide nav
+ */
+div.gn_nav {
+    display: none !important;
+}
+
+/*
+ * Fix search position
+ */
+div.gn_search {
+    margin-left: 495px !important;
+}
+
+/*
+ * Hide member setting
+ */
+div.gn_setting[node-type=member] {
+    display: none !important;
+}
+
+
+
+/*
+ * Hide left group
+ */
+div#pl_leftnav_common + div {
+    display: none !important;
+}
+
+/*
+ * Hide left app nav
+ */
+div#pl_leftnav_app {
+    display: none !important;
+}
+
+
+
+/*
+ * Hide middle news area
+ */
+div#pl_content_publisherTop > div.send_weibo > div.title_area {
+    display: none !important;
+}
+
+/*
+ * Hide middle ads / guide / member recommendation
+ */
+div#pl_ad_yaoyaoFans {
+    display: none !important;
+}
+
+/*
+ * Hide middle group nav
+ */
+div#pl_content_homeFeed > div.group_read {
+    display: none !important;
+}
+
+
+
+/*
+ * Hide skin settings
+ */
+div#pl_content_setSkin {
+    display: none !important;
+}
+
+/*
+ * Hide checkin module
+ */
+div#trustPagelet_checkin_lotteryv5 {
+    display: none !important;
+}
+
+/*
+ * Hide right member recommendation
+ */
+div#trustPagelet_indexright_recom {
+    display: none !important;
+}
+
+/*
+ * Hide right VIP ads
+ */
+div#trustPagelet_recom_memberv5 {
+    display: none !important;
+}
+
+/*
+ * Hide right bulletin
+ */
+div#pl_rightmod_noticeboard {
+    display: none !important;
+}
+
+
+
+/*
+ * Hide footer
+ */
+div.global_footer {
+    display: none !important;
+}
+

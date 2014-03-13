@@ -18,6 +18,15 @@
 	<string>1</string>
 	<key>Chrome</key>
 	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+		<key>Stylesheets</key>
+		<array>
+			<string>WeiboTwitterfier.css</string>
+		</array>
+	</dict>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
