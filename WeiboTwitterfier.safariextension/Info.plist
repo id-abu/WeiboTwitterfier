@@ -18,17 +18,21 @@
 	<string>1</string>
 	<key>Chrome</key>
 	<dict/>
-	<key>Content</key>
-	<dict>
-		<key>Scripts</key>
-		<dict/>
-	</dict>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
 	<dict>
 		<key>Website Access</key>
-		<dict/>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>weibo.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
