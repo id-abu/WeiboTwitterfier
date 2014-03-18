@@ -92,6 +92,13 @@ div#pl_content_setSkin {
 }
 
 /*
+ * Hide user level icon
+ */
+div#pl_rightmod_myinfo > dl.W_person_info > dd.nameBox > div.icon_bed {
+    display: none !important;
+}
+
+/*
  * Hide checkin module
  */
 div#trustPagelet_checkin_lotteryv5 {
