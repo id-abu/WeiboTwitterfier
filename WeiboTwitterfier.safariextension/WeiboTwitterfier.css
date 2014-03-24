@@ -24,9 +24,11 @@ div.gn_setting[node-type=member] {
 /*
  * Hide left group
  */
+/*
 div#pl_leftnav_common + div {
     display: none !important;
 }
+ */
 
 /*
  * Hide left app nav
