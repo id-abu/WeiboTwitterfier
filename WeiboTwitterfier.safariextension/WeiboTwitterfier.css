@@ -8,8 +8,11 @@ div.gn_nav {
 /*
  * Fix search position
  */
-div.gn_search {
+div.gn_search:not([two-column-mode]) {
     margin-left: 495px !important;
+}
+div.gn_search[two-column-mode] {
+    margin-left: 345px !important;
 }
 
 /*

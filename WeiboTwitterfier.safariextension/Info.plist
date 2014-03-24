@@ -17,11 +17,19 @@
 	<key>CFBundleVersion</key>
 	<string>2</string>
 	<key>Chrome</key>
-	<dict/>
+	<dict>
+		<key>Global Page</key>
+		<string>global.html</string>
+	</dict>
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
-		<dict/>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>WeiboTwitterfier.js</string>
+			</array>
+		</dict>
 		<key>Stylesheets</key>
 		<array>
 			<string>WeiboTwitterfier.css</string>
