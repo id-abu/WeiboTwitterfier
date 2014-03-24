@@ -4,15 +4,30 @@ Remove distractions on Sina Weibo's timeline.
 
 ## Release
 
-Latest Version: [0.1.1](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.1.1)
+Latest Version: [0.2](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.2)
 
-History Versions:
+### Release Notes
 
+#### 0.2
+
+Add two column mode.
+
+#### 0.1.1
+
+Remove group blocking.
+
+#### 0.1
+
+First release version.
+
+### History Versions:
+
+* [0.1.1](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.1.1)
 * [0.1](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.1)
 
 ## Screen Shots
 
-![Screen Shot](Screen%20Shots/Screen%20Shot%202014-03-24%20at%203.50.46%20PM.png)
+![Screen Shot](Screen%20Shots/Screen%20Shot%202014-03-24%20at%209.50.44%20PM.png)
 
 ## License
 
