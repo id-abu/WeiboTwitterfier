@@ -4,9 +4,13 @@ Remove distractions on Sina Weibo's timeline.
 
 ## Release
 
-Latest Version: [0.2](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.2)
+Latest Version: [0.3](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.3)
 
 ### Release Notes
+
+#### 0.3
+
+Add auto update.
 
 #### 0.2
 
@@ -22,6 +26,7 @@ First release version.
 
 ### History Versions:
 
+* [0.2](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.2)
 * [0.1.1](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.1.1)
 * [0.1](https://github.com/Elethom/WeiboTwitterfier/releases/tag/0.1)
 
